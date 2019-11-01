@@ -58,7 +58,7 @@ class RegisterActivity : AppCompatActivity() {
 
 
        // val bitmapDrawable = BitmapDrawable(bitmap)
-       // selectphoto_button_register.setBackgroundDrawable(bitmapDrawable)
+       // selectphoto_button_register.setBackgroundDrawable(bitmapDrawable) CS
     }
 
     private fun performRegister(){
